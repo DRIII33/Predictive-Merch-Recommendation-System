@@ -1,0 +1,26 @@
+dataset,column_name,data_type,description
+music_videos,video_id,string,Unique identifier for each mock music video.
+music_videos,artist_id,string,Unique identifier for the artist.
+music_videos,release_date,date,The date the mock video was released.
+music_videos,merch_worn_by_artist,boolean,True if artist is prominently wearing merchandise.
+music_videos,merch_worn_by_key_player,boolean,True if a key player in the video is wearing merchandise.
+music_videos,video_views,integer,Total mock views for the video.
+music_videos,video_likes,integer,Total mock likes for the video.
+music_videos,video_comments,integer,Total mock comments on the video.
+merchandise_sales,sale_id,string,Unique identifier for each mock sale.
+merchandise_sales,user_id,string,Unique identifier for the user who made the purchase.
+merchandise_sales,artist_id,string,Unique identifier for the artist whose merchandise was purchased.
+merchandise_sales,merchandise_id,string,Unique identifier for the specific merchandise item.
+merchandise_sales,sale_date,date,The date of the mock sale.
+merchandise_sales,sale_price,float,The mock price of the item.
+fan_engagement,user_id,string,Unique identifier for the fan.
+fan_engagement,artist_id,string,Unique identifier for the artist.
+fan_engagement,engagement_type,string,Type of engagement (e.g., 'comment', 'share', 'like').
+fan_engagement,engagement_date,date,Date of the mock engagement.
+fan_engagement,user_location,string,Mock geographic location of the fan (e.g., 'New York', 'Los Angeles').
+fan_engagement,user_demographics,string,Mock demographic data for the fan.
+tour_dates,tour_id,string,Unique identifier for each mock tour.
+tour_dates,artist_id,string,Unique identifier for the artist.
+tour_dates,tour_city,string,The city of the mock tour stop.
+tour_dates,tour_date,date,The date of the mock tour stop.
+tour_dates,is_headlining,boolean,True if the artist is the headlining act.
