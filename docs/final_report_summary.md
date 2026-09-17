@@ -1,4 +1,3 @@
-
 Final Report Summary
 
 Disclaimer: This project scenario is based on publicly available information and general industry knowledge about YouTube Music and the music streaming market. It does not use any internal, proprietary, or confidential data from YouTube Music. The data sets, business problems, and solutions are all hypothetical and created for illustrative purposes.
